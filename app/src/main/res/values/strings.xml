@@ -1,3 +1,5 @@
-<resources>
-    <string name="app_name">I Am Poor</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="ExtraTranslation">I Am Poor</string>
+    <string name="title">I Am Poor</string>
+    <string name="todo">TODO</string>
 </resources>
